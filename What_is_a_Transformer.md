@@ -100,7 +100,7 @@ Machine learning engineers can leverage transformers to build powerful, scalable
    - **How to Do It**:
      - Use libraries like Hugging Face’s `transformers` to load pre-trained models.
      - Add a task-specific layer (e.g., a classifier) on top of the transformer.
-     - Fine-tune on your dataset using frameworks like PyTorch or TensorFlow.
+     - Fine-tune your dataset using frameworks like PyTorch or TensorFlow.
 
 2. **Efficient Handling of Large Datasets**:
    - **Advantage**: Transformers scale well with large datasets due to their parallel processing (unlike RNNs, which process sequentially).
