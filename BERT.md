@@ -1,6 +1,6 @@
 ### Diving Deep into BERT (Bidirectional Encoder Representations from Transformers)
 
-**BERT** (Bidirectional Encoder Representations from Transformers), introduced by Google in 2018, is one of the most influential transformer models in natural language processing (NLP). It revolutionized how machines understand text by leveraging a bidirectional approach and pre-training on massive datasets. Below, I’ll explain BERT in simple terms, its architecture, how it works, where it’s used, and how machine learning engineers can use it effectively, with examples and practical guidance.
+**BERT** (Bidirectional Encoder Representations from Transformers), introduced by Google in 2018, is one of the most influential transformer models in natural language processing (NLP). It revolutionized how machines understand text by leveraging a bidirectional approach and pre-training on massive datasets. 
 
 ---
 
